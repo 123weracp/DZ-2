@@ -1,0 +1,137 @@
+*{
+    margin: auto;
+    border: auto;
+    padding: auto; 
+}
+
+html{
+    margin: auto;
+    border: auto;
+    padding: auto;
+}
+
+body{
+    margin: auto;
+    border: auto;
+    padding: auto;
+}
+
+.fio{
+    margin: auto;
+    border: auto;
+    padding: auto;
+    z-index: 9;
+    position: relative; top: 85px; left: 700px;
+    color: white;
+    font-size: 30px;
+}
+
+.kot{
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    width: 1860px;
+    height: 900px;
+    position: absolute; top: 10px;
+}
+
+.text_1{
+    z-index: 9;
+    color: white;
+    font-size: 25px;
+    position: relative; left: 1360px; top: 100px;
+}
+
+.my{
+  background-color: black;
+  color: white;
+  font-size: 17px;
+  margin: auto;
+  border: auto;
+  padding: auto;
+  z-index: 12;
+  border: 1px solid black;
+  border-radius: 0px;
+  width: 170px;
+  height: 30px;
+  position: absolute; top: 200px; left: 1100px;
+  text-align: center;
+}
+
+.my_2{
+    position: absolute; top: 200px; left: 1290px;
+}
+
+.my_3{
+    position: absolute; top: 200px; left: 1480px;
+}
+
+.my_4{
+    position: absolute; top: 200px; left: 1670px;
+}
+
+.osvoi{
+  background-color: black;
+  color: white;
+  font-size: 17px;
+  margin: auto;
+  border: auto;
+  padding: auto;
+  z-index: 12;
+  border: 1px solid black;
+  border-radius: 0px;
+  width: 170px;
+  height: 50px;
+  position: absolute; top: 300px; left: 1100px;
+  text-align: center;
+}
+
+.osvoi_1{
+    position: absolute; top: 300px; left: 1100px;
+}
+
+.osvoi_2{
+    position: absolute; top: 300px; left: 1290px;
+}
+
+.osvoi_3{
+    position: absolute; top: 300px; left: 1480px;
+}
+
+.osvoi_4{
+    position: absolute; top: 300px; left: 1670px;
+}
+
+.osvoi_5{
+    position: absolute; top: 400px; left: 1100px;
+}
+
+.osvoi_6{
+    position: absolute; top: 400px; left: 1290px;
+}
+
+.osvoi_7{
+    position: absolute; top: 400px; left: 1480px;
+}
+
+.osvoi_8{
+    position: absolute; top: 400px; left: 1670px;
+}
+
+.osvoi_9{
+    position: absolute; top: 500px; left: 1290px;
+}
+
+.osvoi_10{
+    position: absolute; top: 500px; left: 1480px;
+}
+
+.os{
+    margin: auto;
+    border: auto;
+    padding: auto;
+    z-index: 9;
+    position: relative; top: 170px; left: 1390px;
+    color: white;
+    font-size: 30px;
+}
